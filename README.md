@@ -1,4 +1,4 @@
-# BI-PYT-2019
+# BI-PYT
 Final project in python course
 
 # Eizou - CLI image editor
@@ -19,7 +19,7 @@ Simple CLI image editor, that is controlled by sequence of argument flags. Eizou
 
 To run Eizou in shell: `./eizou.py [SEQUENCE_OF_FLAGS] INPUT_FILE OUTPUT_FILE`.
 
-## A few examples
+## Example usage
 
 * `./eizou.py --sharpen espionage.png espionage.png`
 * `./eizou.py --rotate --rotate australian_meme.png normal_meme.png`
